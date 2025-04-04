@@ -2,14 +2,14 @@
   "opinions": [
     {
       "id": 1743779670864,
-      "votes": 0,
+      "votes": 1,
       "userName": "testi",
       "title": "testi234q2",
       "body": "dlafjkldsafjkdls"
     },
     {
       "id": 1743777913596,
-      "votes": 0,
+      "votes": 1337,
       "userName": "BasedTaker",
       "title": "React is not that good",
       "body": "React kinda sucks ass."
@@ -19,14 +19,14 @@
       "userName": "Maximilian Schwarzmüller",
       "title": "Do yourself a favor and learn React!",
       "body": "React is an amazing JavaScript library!\n\nDespite all it's shortcomings.",
-      "votes": 0
+      "votes": -69
     },
     {
       "id": 2,
       "userName": "Maximilian Schwarzmüller",
       "title": "React has more depth than you might first think!",
       "body": "React is a great library to learn, but it's not just about the basics. Dive deeper!\nFor example with this course!",
-      "votes": 0
+      "votes": -420
     }
   ]
 }
